@@ -1,6 +1,6 @@
 # Node.js Logo Generator
 
-[![Demo Video](./Examples/Logo-Generator-Tutorial.mov)](./Examples/Logo-Generator-Tutorial.mov)
+[![Demo Video](./Examples/Logo-Generator-Tutorial.gif)](./Examples/Logo-Generator-Tutorial.gif)
 
 ## Description
 The Node.js Logo Generator is a command-line application that takes in user input to generate a simple SVG logo. This application will prompt the user to select a color and shape, provide text for the logo, and will save the generated SVG to a `logo.svg` file.
